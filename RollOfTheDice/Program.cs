@@ -1,4 +1,9 @@
-﻿namespace RollOfTheDice
+﻿/* Ashton Tolman
+ * Spring 2026
+ * RollOfTheDice
+ * https://github.com/Ashton-Tolman/RollOfTheDice.git
+ */
+namespace RollOfTheDice
 {
     internal class Program
     {
